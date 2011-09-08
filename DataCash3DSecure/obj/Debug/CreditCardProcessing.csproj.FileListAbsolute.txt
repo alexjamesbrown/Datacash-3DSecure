@@ -1,0 +1,5 @@
+C:\Users\alexb\Desktop\CreditCardProcessing\CreditCardProcessing\bin\CreditCardProcessing.dll
+C:\Users\alexb\Desktop\CreditCardProcessing\CreditCardProcessing\bin\CreditCardProcessing.pdb
+C:\Users\alexb\Desktop\CreditCardProcessing\CreditCardProcessing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alexb\Desktop\CreditCardProcessing\CreditCardProcessing\obj\Debug\CreditCardProcessing.dll
+C:\Users\alexb\Desktop\CreditCardProcessing\CreditCardProcessing\obj\Debug\CreditCardProcessing.pdb

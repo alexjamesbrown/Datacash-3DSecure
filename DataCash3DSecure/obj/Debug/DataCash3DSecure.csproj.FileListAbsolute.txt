@@ -1,0 +1,12 @@
+C:\Users\alexb\Desktop\datacash-3d-secure-aspnet\DataCash3DSecure\bin\DataCash3DSecure.dll
+C:\Users\alexb\Desktop\datacash-3d-secure-aspnet\DataCash3DSecure\bin\DataCash3DSecure.pdb
+C:\Users\alexb\Desktop\datacash-3d-secure-aspnet\DataCash3DSecure\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alexb\Desktop\datacash-3d-secure-aspnet\DataCash3DSecure\obj\Debug\DataCash3DSecure.dll
+C:\Users\alexb\Desktop\datacash-3d-secure-aspnet\DataCash3DSecure\obj\Debug\DataCash3DSecure.pdb
+C:\Users\alexb\Desktop\datacash-3d-secure-aspnet\DataCash3DSecure\bin\Transaction.dll
+H:\php datacash code\datacash-3d-secure-aspnet\DataCash3DSecure\obj\Debug\ResolveAssemblyReference.cache
+H:\php datacash code\datacash-3d-secure-aspnet\DataCash3DSecure\obj\Debug\DataCash3DSecure.dll
+H:\php datacash code\datacash-3d-secure-aspnet\DataCash3DSecure\obj\Debug\DataCash3DSecure.pdb
+H:\php datacash code\datacash-3d-secure-aspnet\DataCash3DSecure\bin\DataCash3DSecure.dll
+H:\php datacash code\datacash-3d-secure-aspnet\DataCash3DSecure\bin\DataCash3DSecure.pdb
+H:\php datacash code\datacash-3d-secure-aspnet\DataCash3DSecure\bin\Transaction.dll
